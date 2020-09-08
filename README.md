@@ -1,5 +1,5 @@
 # Simple Calendar
-<img alt="Logo" src="fastlane/metadata/android/en-US/images/icon.png" width="120" />
+
 
 A simple calendar with events and a customizable widget.
 
@@ -12,14 +12,3 @@ Contains no ads or unnecessary permissions. It is fully opensource, provides cus
 The Storage permission is needed only for exporting or importing events from .ics files.
 
 The Contacts permission is used only at importing contact birthdays and anniversaries.
-
-This app is just one piece of a bigger series of apps. You can find the rest of them at https://www.simplemobiletools.com
-
-<a href='https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro'><img src='https://simplemobiletools.com/assets/images/google-play.png' alt='Get it on Google Play' height='45' /></a>
-<a href='https://f-droid.org/packages/com.simplemobiletools.calendar.pro'><img src='https://simplemobiletools.com/assets/images/f-droid.png' alt='Get it on F-Droid' height='45' /></a>
-
-<div style="display:flex;">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/app_1.jpg" width="30%">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/app_3.jpg" width="30%">
-</div>
